@@ -6,19 +6,22 @@ Patches to use "IXS Warpship" ( https://forum.kerbalspaceprogram.com/index.php?/
 These patches will not work correctly if the following mods and related dependencies are not installed:
 
 - IXS Warpship:
-https://github.com/linuxgurugamer/warpship/releases
+https://forum.kerbalspaceprogram.com/index.php?/topic/191422-19x-ixs-warpship-spacedock-redocked/
 
 - Blueshift:
-https://github.com/Angel-125/Blueshift/releases
+https://forum.kerbalspaceprogram.com/index.php?/topic/198274-min-ksp-111-blueshift-kerbal-ftl/
 
 - Flying Saucers:
-https://github.com/Angel-125/FlyingSaucers/releases
+https://forum.kerbalspaceprogram.com/index.php?/topic/173857-min-ksp-181-kerbal-flying-saucers-build-flying-saucers-in-ksp/&tab=comments#comment-3353516
 
 - Waterfall:
-https://github.com/post-kerbin-mining-corporation/Waterfall/releases
+https://forum.kerbalspaceprogram.com/index.php?/topic/196309-111x-waterfall-a-framework-for-continuous-mesh-driven-engine-effects-march-26/
 
 - Community Resource Pack:
-https://github.com/UmbraSpaceIndustries/CommunityResourcePack/releases
+https://forum.kerbalspaceprogram.com/index.php?/topic/83007-1x-community-resource-pack/
+
+- Module Manager (to properly apply the patches):
+https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-110x-module-manager-414-july-7th-2020-locked-inside-edition/
 
 **SUPPORTS:**
 These patches support (but are not needed for their correct work):
