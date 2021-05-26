@@ -34,5 +34,5 @@ https://forum.kerbalspaceprogram.com/index.php?/topic/184789-131-111x-outer-plan
 
 ---------------------------------
 
-This mod is compiled starting from KSP v.1.11.2
+This mod is compiled starting from KSP v.1.11.2.
 It should work with previous version, if the correct dependencies are available, downloaded and installed, but NO GUARANTEES about that!!!
