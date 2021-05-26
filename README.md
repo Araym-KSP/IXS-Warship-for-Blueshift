@@ -3,7 +3,7 @@
 Patches to use "IXS Warpship" ( https://forum.kerbalspaceprogram.com/index.php?/topic/191422-19x-ixs-warpship-spacedock-redocked/ ) with Angel-125's "Blueshift" and "FlyingSaucers" mods in Kerbal Space Program
 
 **DEPENDENCIES:**
-These patches will not work correctly if the following mods and related dependencies are not installed:
+These patches will not work correctly if the following mods and related dependencies (check their own thread release to find them) are not installed:
 
 - IXS Warpship:
 https://forum.kerbalspaceprogram.com/index.php?/topic/191422-19x-ixs-warpship-spacedock-redocked/
